@@ -1,0 +1,16 @@
+npm i init
+npm i express
+npm i nodemon
+npm i cors
+npm i mongoose --save
+npm i jsonwebtoken
+npm i express-jwt
+npm i bcrypt
+npm i bcryptjs
+npm i nodemailer
+npm i morgan
+npm i dotenv
+npm i multer
+
+npm install assert --save
+npm install buffer --save
